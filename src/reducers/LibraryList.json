@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Redux",
+        "description": "Redux is a predictatble state container for Javascript. state container for Javascript state container for Javascript state container for Javascript state container for Javascript"
+    },
+    {
+        "id": 2,
+        "title": "React",
+        "description": "React makes it painless to create interactive UIs. state container for Javascript state container for Javascript state container for Javascript"
+    },
+    {
+        "id": 3,
+        "title": "Webpack",
+        "description": "Webpack is a module bundler. It packs CommonJS/AMD. state container for Javascript state container for Javascript"
+    },
+    {
+        "id": 4,
+        "title": "React-Redux",
+        "description": "Redux is a predictatble state container for Javascript state container for Javascript state container for Javascript"
+    },
+    {
+        "id": 5,
+        "title": "EsLint",
+        "description": "Redux is a predictatble state container for Javascript. state container for Javascriptstate container for Javascriptvv"
+    },
+    {
+        "id": 6,
+        "title": "Loadash",
+        "description": "Redux is a predictatble state container for Javascript. state container for Javascript state container for Javascript state container for Javascript"
+    },
+    {
+        "id": 7,
+        "title": "Babel",
+        "description": "Redux is a predictatble state container for Javascript. state container for Javascript state container for Javascript state container for Javascript"
+    },
+    {
+        "id": 8,
+        "title": "Axios",
+        "description": "Redux is a predictatble state container for Javascript. state container for Javascript state container for Javascript state container for Javascript state container for Javascript"
+    }
+]
